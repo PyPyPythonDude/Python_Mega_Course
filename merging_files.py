@@ -1,5 +1,6 @@
 '''
-This program imports the datetime module and the installed package, glob2.
+This program imports the datetime class of the datetime module and the
+installed package, glob2.
 Using glob2.glob method, it grabs all .txt files and stores them in a variable.
 It then opens a brand new txt file and names it with the current date, using
 the datetime module. It uses Python's strftime directives to format the
